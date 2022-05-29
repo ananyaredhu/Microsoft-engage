@@ -15,8 +15,6 @@ There are no known bugs.
 Technologies Used
 Python 3.7
 Python library - Pandas and Numpy
-Support and contact details
-In case of any issues, comments or suggestions that would help improve the analysis carried out contact me at SWAWERU70@gmail.com.
 
-License
-MIT License Copyright (c) {2020} {WAWERU
+
+
